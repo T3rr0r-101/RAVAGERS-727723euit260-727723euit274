@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(25, 63, 14);
+}
+.bc1{
+    top: 25px
+}
+.bc2{
+    bottom: 25px
+}
+.c1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: rgb(126, 126, 34);
+    float: left;
+}
+.c2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: rgb(126, 126, 34);
+    float: right;
+}
+.c3{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: rgb(126, 126, 34);
+    float: left;
+
+}
+.c4{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: rgb(126, 126, 34);
+    float: right;
+}
